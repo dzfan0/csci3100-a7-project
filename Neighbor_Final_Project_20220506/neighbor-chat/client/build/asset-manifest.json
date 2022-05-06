@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4aa5038e.css",
+    "main.js": "/static/js/main.9261ccdf.js",
+    "static/js/913.5f5fe264.chunk.js": "/static/js/913.5f5fe264.chunk.js",
+    "static/js/581.9087702c.chunk.js": "/static/js/581.9087702c.chunk.js",
+    "static/js/717.fd776f4e.chunk.js": "/static/js/717.fd776f4e.chunk.js",
+    "static/js/829.539fa827.chunk.js": "/static/js/829.539fa827.chunk.js",
+    "static/media/EmojiOneColor.woff2": "/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
+    "static/media/NotoColorEmoji-flags.woff2": "/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
+    "static/media/signup.jpeg": "/static/media/signup.e006f1ce4e3631bd58d6.jpeg",
+    "static/media/school.png": "/static/media/school.a2f53112b8301c1f00cc.png",
+    "static/media/str-chat__connection-error.svg": "/static/media/str-chat__connection-error.90385cff548e3b068187c19d5f25e675.svg",
+    "index.html": "/index.html",
+    "main.4aa5038e.css.map": "/static/css/main.4aa5038e.css.map",
+    "main.9261ccdf.js.map": "/static/js/main.9261ccdf.js.map",
+    "913.5f5fe264.chunk.js.map": "/static/js/913.5f5fe264.chunk.js.map",
+    "581.9087702c.chunk.js.map": "/static/js/581.9087702c.chunk.js.map",
+    "717.fd776f4e.chunk.js.map": "/static/js/717.fd776f4e.chunk.js.map",
+    "829.539fa827.chunk.js.map": "/static/js/829.539fa827.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aa5038e.css",
+    "static/js/main.9261ccdf.js"
+  ]
+}
